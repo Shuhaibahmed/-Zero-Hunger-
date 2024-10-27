@@ -2,6 +2,7 @@
  Zero Hunger Website Development group project in in IIT 1st year second semester.
 <P>The University of Westminster's Web Development team created a website to promote inclusive and sustainable food systems, raising awareness of world hunger and offering ethical solutions. The website teaches community engagement and sustainable agriculture.</p>
 
+
 <h4>My Responsibilities:</h4>
 <h5>student_2</h5>
 Home page
